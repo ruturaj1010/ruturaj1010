@@ -28,6 +28,7 @@
 <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" title="React"/>
 <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" title="Redux"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" title="Bootstrap"/>
 <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" title="HTML5"/>
 <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" title="CSS3"/>
 </div>
@@ -54,7 +55,8 @@
 - 🌐 [GitHub](https://github.com/ruturaj1010)
 
 ---
-<div align="center">
-*"Building robust backend systems and scalable applications that solve real problems—one clean commit at a time."*
-</div>
+<p align="center">
+  <strong><em>Building robust backend systems and scalable applications that solve real problems — one clean commit at a time.</em></strong>
+</p>
+
   
